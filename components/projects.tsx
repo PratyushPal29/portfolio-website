@@ -18,7 +18,7 @@ const featuredProjects = [
   },
   {
     title: "Grouplance",
-    image: "/GroupLanceSS.png",
+    image: "/GrouplanceSS.png",
     description:
       "GroupLance is a collaborative platform built with MongoDB and React that enables seamless group creation, real-time coordination, project management, and secure team collaboration in one intuitive workspace.",
     tech: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
